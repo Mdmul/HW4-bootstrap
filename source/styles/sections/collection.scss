@@ -1,0 +1,88 @@
+.collection {
+    background: #F9F6F1;
+    
+}
+.container {
+}
+.row {
+
+}
+
+.collection__title-left {
+margin-top: 60px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.03em;
+color: #000000;
+}
+.collection__text-left {
+margin-top: 25px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+}
+.collection__button-left {
+ margin-top: 40px;
+ padding: 15px 30px;
+ border: none;
+ background: #D7B399;
+}
+
+.collection__photo-left {
+ margin-top: 79px;
+}
+.collection__title-right {
+margin-top: 60px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.03em;
+color: #000000;
+}
+.collection__text-right {
+margin-top: 25px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+}
+.collection__button-right {
+margin-top: 40px;
+padding: 15px 30px;
+border: none;
+background: #D7B399;
+}
+.collection__photo-rigth {
+margin-top: 79px;
+
+}
+.collection__item{
+    position: relative;
+}
+
+.collection__dress-text{
+position: absolute;
+right: 142px;
+bottom: 20px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 26px;
+letter-spacing: 0.03em;
+color: #000000;
+}
+
+.collection__img{
+     
+}

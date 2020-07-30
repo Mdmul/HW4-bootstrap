@@ -1,0 +1,72 @@
+.models {
+    text-align: center;
+    padding: 150px 0px;
+    background-color: #E5E5E5;
+}
+.container {
+}
+.row {
+}
+
+.models__title {
+ 
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+letter-spacing: 0.04em;
+text-transform: uppercase;
+color: #212121;
+    
+}
+.models__card{
+background: #E5E5E5;
+border: 3px solid #D7B399;
+margin-top: 103px;
+padding: 25px;
+}
+
+.models__photo {
+background-color: #E5E5E5;
+}
+
+.models__text {
+margin-top: 25px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #000000;
+}
+.models__price {
+margin-top: 15px;
+text-align: center;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+color: #D7B399;
+}
+
+.button{
+ margin-left: 480px;
+ margin-top: 103px;
+}
+
+.models__button {
+padding: 18px 64px 17px 35px;
+background: #D7B399;
+border: none;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+
+}
